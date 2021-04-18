@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Parcial2_electiva2</string>
+    <string name="add_student">Agregar</string>
+    <string name="dialog_title">Agregar Estudiante</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="cedula">Cedula</string>
+    <string name="telefono">Telefono</string>
+    <string name="dialog_save">Guardar</string>
+    <string name="next_activity">Siguiente Actividad</string>
+    <string name="modify_text">Modificar Texto</string>
+    <string name="view_images">Visualizar Imagenes</string>
+    <string name="change_images">Cambiar Imagen</string>
+    <string name="parcial">Parcial</string>
+    <string name="time_picker">Time Picker Dialog</string>
+</resources>
